@@ -1,5 +1,6 @@
 {
     "name": "p h r o g the tode",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
